@@ -1,0 +1,7 @@
+{
+  "name": "phallosan-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
